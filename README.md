@@ -1,2 +1,2 @@
 # my-first-repo
-![a dummy picture](dewi.jpg)
+![a dummy picture](Dewi.jpg)
